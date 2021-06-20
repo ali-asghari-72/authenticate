@@ -1,5 +1,5 @@
 {
-  "user":[{ "id": 1, "username": "admin", "password": "12345678", "firstName": "user", "lastName": "12345678" }],
+  "user":[{ "id": 1, "username": "admin", "password": "12345678", "firstName": "user", "lastName": "12345678","token":"fake-jwt-token" }],
   "list":[
     {"username":"ali72","first_name":"ali","last_name":"asghari","job":"ssss","email":"ali@ffgg.com","status":"acitve",
     "roles":["استعلام قبض","کاربران","بنرها","پرداخت","کارت ها"],
